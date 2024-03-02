@@ -7,9 +7,11 @@ assignees: ''
 
 ---
 
-In order to **recieve benefit** as a **role**, I can **goal/desire**.
+In order to **recieve benefit** as a **role**, I can **goal/desire**
 
-**Acceptance Criteria**:
-- Acceptance Criteria 1: 
-- Acceptance Criteria 2: 
-- Acceptance Criteria 3: 
+## Acceptance Criteria
+
+- **Acceptance Criteria 1**: 
+- **Acceptance Criteria 2**: 
+- **Acceptance Criteria 3**:
+
